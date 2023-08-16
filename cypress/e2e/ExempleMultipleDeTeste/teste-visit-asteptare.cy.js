@@ -1,6 +1,6 @@
 
 
-describe('Testemultiple', () => {
+//describe('Testemultiple', () => {
 
 
     //Test verificare segment din URL
@@ -54,7 +54,7 @@ describe('Testemultiple', () => {
 
     //Testul constanta si verificare continut input
 
-    it('Verific o valoare din input', () => {
+    //it('Verific o valoare din input', () => {
 
         //  cy.visit('https://google.com');
 
@@ -67,25 +67,21 @@ describe('Testemultiple', () => {
 
         //Testul verifica existenta unei clase pe un element selectat
 
-        //it('Verific o valoare din input', () => {
-
-          //  cy.visit('https://google.ro');
+     
 
 
-        //})
+    //})
 
+//     it('Verifica o valoare', () =>{
 
+//         cy.visit('https://libris.ro')
 
+//         cy.get('#autoCompleteButton').should('have.class', 'onSearchClick'); //Exista clasa pe buton? 
 
-
-
-
-
-
-
-    })
+//     })
 
 
 
 
-})  
+
+// })  
