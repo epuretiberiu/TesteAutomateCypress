@@ -1,0 +1,9 @@
+diff a/cypress/e2e/ExempleMultipleDeTeste/teste-visit-asteptare.cy.js b/cypress/e2e/ExempleMultipleDeTeste/teste-visit-asteptare.cy.js	(rejected hunks)
+@@ -1,6 +1,6 @@
+ 
+ 
+-//describe('Testemultiple', () => {
++describe('Testemultiple', () => {
+ 
+ 
+     //Test verificare segment din URL

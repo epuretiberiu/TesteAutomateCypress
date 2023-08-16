@@ -1,10 +1,10 @@
 
 
-describe('Testemultiple', () => {
+//describe('Testemultiple', () => {
 
 
     //Test verificare segment din URL
-    // it('verifica daca un URL contine un cuvant cheie', () => {
+     it('verifica daca un URL contine un cuvant cheie', () => {
 
     //     cy.visit('https://stirileprotv.ro/stiri/international/donald-trump-pus-sub-acuzare-pentru-a-patra-oara-justitia-din-statul-georgia-a-validat-zece-acuzatii-impotriva-sa.html');
         
@@ -12,11 +12,11 @@ describe('Testemultiple', () => {
 
     //     cy.get('#onetrust-accept-btn-handler').click();
 
-    //     })
+         })
 
     // Testul cu delay
 
-    // it('asteapta 10 secunde', () => {
+     it('asteapta 10 secunde', () => {
 
     //     cy.visit('https://google.ro');
 
@@ -26,7 +26,7 @@ describe('Testemultiple', () => {
 
     //     cy.get('#APjFqb').type('au trecut 10 secunde');
 
-    // })
+     })
 
     // Testul cu selector de timp atribuit
 
@@ -39,18 +39,18 @@ describe('Testemultiple', () => {
     //     cy.get('[alt="Google"]').should('be.visible'); //Selector atribut alt + assertion cu visible
 
 
-    // })
+     })
 
     //Testul cu screenshot pagina
 
-    // it ('Fac un scrennshot la pagina', () => {
+     it ('Fac un scrennshot la pagina', () => {
 
     //     cy.visit('https://google.com');
 
     //     cy.screenshot (); //Face screenshot la pagina si il duce intr-un folder default
 
     
-    // })
+     })
 
     //Testul constanta si verificare continut input
 
@@ -70,18 +70,18 @@ describe('Testemultiple', () => {
      
 
 
-    //})
+    })
 
-     it('Verifica o valoare', () =>{
+//     it('Verifica o valoare', () =>{
 
 //         cy.visit('https://libris.ro')
 
 //         cy.get('#autoCompleteButton').should('have.class', 'onSearchClick'); //Exista clasa pe buton? 
 
-     })
+//     })
 
 
 
 
 
- })  
+// })  
