@@ -1,6 +1,6 @@
 
 
-//describe('Testemultiple', () => {
+describe('Testemultiple', () => {
 
 
     //Test verificare segment din URL
@@ -72,16 +72,16 @@
 
     //})
 
-//     it('Verifica o valoare', () =>{
+     it('Verifica o valoare', () =>{
 
 //         cy.visit('https://libris.ro')
 
 //         cy.get('#autoCompleteButton').should('have.class', 'onSearchClick'); //Exista clasa pe buton? 
 
-//     })
+     })
 
 
 
 
 
-// })  
+ })  
